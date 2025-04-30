@@ -1,6 +1,6 @@
 # I don't want to see the native macos clock app countdown for a timer in my menu bar
 
-I don't want to see the native macos clock app countdown for a timer in my menu bar, so I built this. A simple macOS timer app that lives in your dock (not the menu bar). Set a timer, and get a notification when time's up.
+macOS doesn’t offer a built-in toggle to turn off that little countdown icon once you start a timer in the Clock app. Why? It's so simple. And there's not even a simple "workaround". Any command line your options are essentially the same “global” hacks you’d get in the GUI. So I built this. A simple macOS timer app that lives in your dock (not the menu bar). Set a timer, and get a notification when time's up.
 
 ## Build
 
