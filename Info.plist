@@ -7,7 +7,7 @@
     <key>CFBundleExecutable</key>
     <string>MyTimer</string>
     <key>CFBundleIconFile</key>
-    <string></string>
+    <string>MyTimer</string>
     <key>CFBundleIdentifier</key>
     <string>com.example.mytimer</string>
     <key>CFBundleInfoDictionaryVersion</key>
