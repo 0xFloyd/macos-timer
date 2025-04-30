@@ -10,8 +10,8 @@ I don't want to see the native macos clock app countdown for a timer in my menu 
 
 ## Run locally
 
-```
-swift run
+```bash
+./build_app.sh && open MyTimer.app
 ```
 
 ## Features
