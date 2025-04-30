@@ -1,4 +1,4 @@
-# My Timer
+# I don't want to see the native macos clock app countdown for a timer in my menu bar
 
 I don't want to see the native macos clock app countdown for a timer in my menu bar, so I built this. A simple macOS timer app that lives in your dock (not the menu bar). Set a timer, and get a notification when time's up.
 
